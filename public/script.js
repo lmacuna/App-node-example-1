@@ -1,9 +1,4 @@
-const rotarIcon=()=>{
 
-    let estado=document.querySelector("#check").checked
-    //console.log(estado)
-    !estado?document.querySelector(".label-check").classList.add("icono-rotate"):document.querySelector(".label-check").classList.remove("icono-rotate")
-}
 
 
 // 20230427185315
