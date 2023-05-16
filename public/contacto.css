@@ -1,0 +1,40 @@
+
+
+
+form{
+    width: 50%;
+    height: 60vh;
+    margin: auto;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border:1px solid black;
+    background: rgb(255,255,255);
+    opacity: 0.8;
+}
+.input{
+    margin-bottom: 20px;
+    width: 80%;
+    height: 40px;
+    font-family: 'Roboto','Serif';
+}
+select{
+    width: 60%;
+    height: 30px;
+}
+textarea{
+    width: 80%;
+    height: 30vh;
+    margin-top: 20px;
+}
+.btn-contacto{
+    width: 33%;
+    padding: 15px;
+    border-radius: 18px;
+    background: blue;
+    color: white;
+    font-family: 'Roboto','Serif';
+    margin-top: 20px;
+}
